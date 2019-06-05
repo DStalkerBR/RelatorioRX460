@@ -24,3 +24,19 @@ h3 {
 	font-size:18px;
 	margin-bottom:15px;
 }
+
+a{
+	color:#0a0800;
+	font-size:12px;
+	text-decoration:none;
+	padding:6px 13px 6px 13px;
+	font-weight:bold;
+	display:inline-block;
+	border:#566568 solid 1px;
+	background-color:#97aaae;
+}
+
+a:hover{
+	background-color:orange;
+	text-decoration:none;
+}
